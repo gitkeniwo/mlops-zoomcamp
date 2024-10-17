@@ -66,7 +66,10 @@ If you get `docker: Got permission denied while trying to connect to the Docker 
 chmod 400 name-of-your-private-key-file.pem
 ```
 
-# Codespace Setup
+## Codespace Setup
 
 1. Install conda
 2. Configure vscode port mapping to access jupyter notebook
+
+Online NYC data url:
+https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
