@@ -65,3 +65,8 @@ If you get `docker: Got permission denied while trying to connect to the Docker 
  ```sh
 chmod 400 name-of-your-private-key-file.pem
 ```
+
+# Codespace Setup
+
+1. Install conda
+2. Configure vscode port mapping to access jupyter notebook
