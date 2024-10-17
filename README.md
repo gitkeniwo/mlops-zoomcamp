@@ -1,6 +1,10 @@
 # MLOps Zoomcamp
 
-## Github Codespace Setup
+## Environment Setup
+
+> [!TIPS]
+> This is only for your local machine.
+> MOst are already available in github codespace.
 
 Recommended development environment: Linux
 
