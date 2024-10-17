@@ -2,9 +2,10 @@
 
 ## Environment Setup
 
-> [!TIPS]
+> [!IMPORTANT]
 > This is only for your local machine.
-> MOst are already available in github codespace.
+> 
+> Most are already available in github codespace.
 
 Recommended development environment: Linux
 
